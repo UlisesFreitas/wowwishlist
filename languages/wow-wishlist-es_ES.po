@@ -1,0 +1,194 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: WOW Wishlist\n"
+"POT-Creation-Date: 2016-12-19 12:22+0100\n"
+"PO-Revision-Date: 2016-12-19 12:27+0100\n"
+"Language-Team: ulises.freitas@gmail.com <ulises.freitas@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: wow-wishlist.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: es_ES\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/class-wow-wishlist-admin.php:92
+msgid "Add to Wishlist"
+msgstr "Añadir a Mis Deseos"
+
+#: admin/class-wow-wishlist-admin.php:93
+msgid "Browse Wishlist"
+msgstr "Ver Mis Deseos"
+
+#: admin/includes/wow-wishlist-settings-form.php:20
+msgid "WOW Wishlists"
+msgstr "WOW Whishlist"
+
+#: admin/includes/wow-wishlist-settings-form.php:21
+#, php-format
+msgid ""
+"Insert shortcode %1$s on page or post to display wishlist items and use "
+"shortcode %2$s to display wishlist button on your products."
+msgstr ""
+"Inserte el código %1$s en la página o post para mostrar la lista de "
+"artículos y código %2$s para mostrar botón de lista de deseos en sus "
+"productos."
+
+#: admin/includes/wow-wishlist-settings-form.php:30
+msgid "Enable wishlist"
+msgstr "Habilitar lista de deseos"
+
+#: admin/includes/wow-wishlist-settings-form.php:33
+msgid "Enable"
+msgstr "Habilitar"
+
+#: admin/includes/wow-wishlist-settings-form.php:40
+msgid "Wishlist Page "
+msgstr "Página Mis Deseos"
+
+#: admin/includes/wow-wishlist-settings-form.php:54
+msgid "Wishlist button Position For Single Product Page"
+msgstr "Posición del Botón en la página del producto"
+
+#: admin/includes/wow-wishlist-settings-form.php:59
+msgid "After \"Add to cart\""
+msgstr "Después de “Agregar al Carrito”"
+
+#: admin/includes/wow-wishlist-settings-form.php:60
+msgid "After summary text"
+msgstr "Después de texto de resumen"
+
+#: admin/includes/wow-wishlist-settings-form.php:61
+msgid "Use shortcode"
+msgstr "Utilizar shortcode"
+
+#: admin/includes/wow-wishlist-settings-form.php:63
+msgid "Use shortcode [wow_wishlist_button]"
+msgstr "Utilizar código [wow_wishlist_button]"
+
+#: admin/includes/wow-wishlist-settings-form.php:69
+#: public/includes/wow-wishlist-items.php:66
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: admin/includes/wow-wishlist-settings-form.php:76
+#: admin/includes/wow-wishlist-settings-form.php:79
+msgid "Show Image"
+msgstr "Mostrar imagen"
+
+#: admin/includes/wow-wishlist-settings-form.php:87
+#: admin/includes/wow-wishlist-settings-form.php:90
+msgid "Show \"Add to cart\" button"
+msgstr "Mostrar botón “Añadir al carrito”"
+
+#: admin/includes/wow-wishlist-settings-form.php:97
+#: admin/includes/wow-wishlist-settings-form.php:100
+msgid "Show unit price"
+msgstr "Mostrar precio unitario"
+
+#: admin/includes/wow-wishlist-settings-form.php:108
+#: admin/includes/wow-wishlist-settings-form.php:111
+msgid "Show stock"
+msgstr "Mostrar stock"
+
+#: admin/includes/wow-wishlist-settings-form.php:116
+msgid "Add to wishlist text"
+msgstr "Texto de “Añadir a Mis Deseos”"
+
+#: admin/includes/wow-wishlist-settings-form.php:126
+msgid "View wishlist text"
+msgstr "Ver lista de deseos"
+
+#: admin/includes/wow-wishlist-settings-form.php:139
+msgid "Enable Wishlist for"
+msgstr "Habilitar Lista de deseos para"
+
+#: admin/includes/wow-wishlist-settings-form.php:143
+msgid "Logged in users"
+msgstr "Usuarios registrados"
+
+#: admin/includes/wow-wishlist-settings-form.php:144
+msgid "All users"
+msgstr "Todos los usuarios"
+
+#: admin/includes/wow-wishlist-settings-form.php:152
+msgid "Show in Shop Page"
+msgstr "Mostrar en la página de la tienda"
+
+#: admin/includes/wow-wishlist-settings-form.php:155
+msgid "Show Wishlist Button in Shop Page With Add To Cart Button"
+msgstr "Mostrar el botón Lista en la tienda Página Con botón Añadir al carro"
+
+#: admin/includes/wow-wishlist-settings-form.php:169
+msgid "Save Changes"
+msgstr "Guardar cambios"
+
+#: public/class-wow-wishlist-public.php:146
+msgid "Product Added!"
+msgstr "Producto añadido"
+
+#: public/includes/wow-wishlist-contents.php:10
+msgid "Please log in to use this feature"
+msgstr "Inicia sesión para usar esta función"
+
+#: public/includes/wow-wishlist-items.php:10
+msgid "Product"
+msgstr "Producto"
+
+#: public/includes/wow-wishlist-items.php:12
+msgid "Price"
+msgstr "Precio"
+
+#: public/includes/wow-wishlist-items.php:15
+msgid "Stock"
+msgstr "Stock"
+
+#: public/includes/wow-wishlist-items.php:59
+msgid "In Stock"
+msgstr "Hay existencias"
+
+#: public/includes/wow-wishlist-items.php:61
+msgid "in Stock"
+msgstr "Hay existencias"
+
+#: public/includes/wow-wishlist-items.php:68
+msgid "Out of Stock"
+msgstr "Agotado"
+
+#: public/includes/wow-wishlist-items.php:90
+msgid "No Items found on your wishlist!"
+msgstr "¡No hay productos encontrados su lista de deseos!"
+
+#: wow-wishlist.php:46
+msgid "Configuration"
+msgstr "Configuración"
+
+#. Plugin Name of the plugin/theme
+msgid "WOW Wishlist for woocommerce"
+msgstr "WOW lista de deseos Para WooCommerce"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://disenialia.com/"
+msgstr "https://disenialia.com/"
+
+#. Description of the plugin/theme
+msgid ""
+"WOW Wishlist for woocommerce allow you to add wishlist functionality to your "
+"ecommerce store"
+msgstr ""
+"WOW lista de deseos para woocommerce permite añadir funcionalidad de lista "
+"de deseos a tu tienda de comercio electrónico"
+
+#. Author of the plugin/theme
+msgid "UlisesFreitas"
+msgstr "UlisesFreitas"

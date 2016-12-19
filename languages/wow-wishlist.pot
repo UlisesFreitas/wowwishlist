@@ -1,0 +1,189 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: WOW Wishlist\n"
+"POT-Creation-Date: 2016-12-15 18:50+0100\n"
+"PO-Revision-Date: 2016-12-15 18:48+0100\n"
+"Last-Translator: \n"
+"Language-Team: ulises.freitas@gmail.com <ulises.freitas@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: wow-wishlist.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/class-wow-wishlist-admin.php:92
+msgid "Add to Wishlist"
+msgstr ""
+
+#: admin/class-wow-wishlist-admin.php:93
+msgid "Browse Wishlist"
+msgstr ""
+
+#: admin/includes/wow-wishlist-settings-form.php:20
+msgid "WOW Wishlists"
+msgstr ""
+
+#: admin/includes/wow-wishlist-settings-form.php:21
+#, php-format
+msgid ""
+"Insert shortcode %1$s on page or post to display wishlist items and use "
+"shortcode %2$s to display wishlist button on your products."
+msgstr ""
+
+#: admin/includes/wow-wishlist-settings-form.php:30
+msgid "Enable wishlist"
+msgstr ""
+
+#: admin/includes/wow-wishlist-settings-form.php:33
+msgid "Enable"
+msgstr ""
+
+#: admin/includes/wow-wishlist-settings-form.php:40
+msgid "Wishlist Page "
+msgstr ""
+
+#: admin/includes/wow-wishlist-settings-form.php:54
+msgid "Wishlist button Position For Single Product Page"
+msgstr ""
+
+#: admin/includes/wow-wishlist-settings-form.php:59
+msgid "After \"Add to cart\""
+msgstr ""
+
+#: admin/includes/wow-wishlist-settings-form.php:60
+msgid "After summary text"
+msgstr ""
+
+#: admin/includes/wow-wishlist-settings-form.php:61
+msgid "Use shortcode"
+msgstr ""
+
+#: admin/includes/wow-wishlist-settings-form.php:63
+msgid "Use shortcode [wow_wishlist_button]"
+msgstr ""
+
+#: admin/includes/wow-wishlist-settings-form.php:69
+#: public/includes/wow-wishlist-items.php:66
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: admin/includes/wow-wishlist-settings-form.php:76
+#: admin/includes/wow-wishlist-settings-form.php:79
+msgid "Show Image"
+msgstr ""
+
+#: admin/includes/wow-wishlist-settings-form.php:87
+#: admin/includes/wow-wishlist-settings-form.php:90
+msgid "Show \"Add to cart\" button"
+msgstr ""
+
+#: admin/includes/wow-wishlist-settings-form.php:97
+#: admin/includes/wow-wishlist-settings-form.php:100
+msgid "Show unit price"
+msgstr ""
+
+#: admin/includes/wow-wishlist-settings-form.php:108
+#: admin/includes/wow-wishlist-settings-form.php:111
+msgid "Show stock"
+msgstr ""
+
+#: admin/includes/wow-wishlist-settings-form.php:116
+msgid "Add to wishlist text"
+msgstr ""
+
+#: admin/includes/wow-wishlist-settings-form.php:126
+msgid "View wishlist text"
+msgstr ""
+
+#: admin/includes/wow-wishlist-settings-form.php:139
+msgid "Enable Wishlist for"
+msgstr ""
+
+#: admin/includes/wow-wishlist-settings-form.php:143
+msgid "Logged in users"
+msgstr ""
+
+#: admin/includes/wow-wishlist-settings-form.php:144
+msgid "All users"
+msgstr ""
+
+#: admin/includes/wow-wishlist-settings-form.php:152
+msgid "Show in Shop Page"
+msgstr ""
+
+#: admin/includes/wow-wishlist-settings-form.php:155
+msgid "Show Wishlist Button in Shop Page With Add To Cart Button"
+msgstr ""
+
+#: admin/includes/wow-wishlist-settings-form.php:169
+msgid "Save Changes"
+msgstr ""
+
+#: public/class-wow-wishlist-public.php:146
+msgid "Product Added!"
+msgstr ""
+
+#: public/includes/wow-wishlist-contents.php:10
+msgid "Please log in to use this feature"
+msgstr ""
+
+#: public/includes/wow-wishlist-items.php:10
+msgid "Product"
+msgstr ""
+
+#: public/includes/wow-wishlist-items.php:12
+msgid "Price"
+msgstr ""
+
+#: public/includes/wow-wishlist-items.php:15
+msgid "Stock"
+msgstr ""
+
+#: public/includes/wow-wishlist-items.php:59
+msgid "In Stock"
+msgstr ""
+
+#: public/includes/wow-wishlist-items.php:61
+msgid "in Stock"
+msgstr ""
+
+#: public/includes/wow-wishlist-items.php:68
+msgid "Out of Stock"
+msgstr ""
+
+#: public/includes/wow-wishlist-items.php:90
+msgid "No Items found on your wishlist!"
+msgstr ""
+
+#: wow-wishlist.php:46
+msgid "Configuration"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WOW Wishlist for woocommerce"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://disenialia.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"WOW Wishlist for woocommerce allow you to add wishlist functionality to your "
+"ecommerce store"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "UlisesFreitas"
+msgstr ""

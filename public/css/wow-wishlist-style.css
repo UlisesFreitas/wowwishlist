@@ -1,0 +1,15 @@
+.add_to_wishlist_button{display: block;}
+.add_to_wishlist_button,.view_wishlist_button{clear:both; margin: 1em auto !important;}
+
+.wow_wishlist_loader{clear:both;}
+.woocommerce-wishlist-wrapper .product-thumbnail img{width:50px; height:auto;}
+#wow_wishlist_added{clear:both;}
+.woocommerce  .stock {color: #77a464;}
+.woocommerce  .out-of-stock {color: red;}
+
+a.add_to_wishlist_button.dashicons.dashicons-heart {
+    color: gray;
+}
+a.add_to_wishlist_button.dashicons.dashicons-heart.added {
+    color: red;
+}
